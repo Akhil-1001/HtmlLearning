@@ -1,2 +1,2 @@
 # HtmlLearning
-This Repository contains my Html Learnings.
+This Repository contains my Html Learning.
